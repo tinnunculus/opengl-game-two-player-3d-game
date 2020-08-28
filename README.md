@@ -1,4 +1,4 @@
-# opengl-game-two-player-3d-game
+# two-player-3d-game
 * 홍익대학교 컴퓨터 그래픽스 기말 과제
 
 ### 개발 환경
